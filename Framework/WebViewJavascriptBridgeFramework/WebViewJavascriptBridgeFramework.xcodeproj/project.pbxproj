@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		ADEF60E61DC23D36008F8D27 /* WebViewJavascriptBridgeFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60E41DC23D36008F8D27 /* WebViewJavascriptBridgeFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ADEF60F41DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60EC1DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.h */; };
+		ADEF60F41DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60EC1DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ADEF60F51DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.m in Sources */ = {isa = PBXBuildFile; fileRef = ADEF60ED1DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.m */; };
 		ADEF60F61DC23D4B008F8D27 /* WebViewJavascriptBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60EE1DC23D4B008F8D27 /* WebViewJavascriptBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ADEF60F71DC23D4B008F8D27 /* WebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = ADEF60EF1DC23D4B008F8D27 /* WebViewJavascriptBridge.m */; };
-		ADEF60F81DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60F01DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.h */; };
+		ADEF60F81DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60F01DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ADEF60F91DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.m in Sources */ = {isa = PBXBuildFile; fileRef = ADEF60F11DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.m */; };
 		ADEF60FA1DC23D4B008F8D27 /* WKWebViewJavascriptBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = ADEF60F21DC23D4B008F8D27 /* WKWebViewJavascriptBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ADEF60FB1DC23D4B008F8D27 /* WKWebViewJavascriptBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = ADEF60F31DC23D4B008F8D27 /* WKWebViewJavascriptBridge.m */; };
@@ -85,9 +85,9 @@
 			files = (
 				ADEF60E61DC23D36008F8D27 /* WebViewJavascriptBridgeFramework.h in Headers */,
 				ADEF60F61DC23D4B008F8D27 /* WebViewJavascriptBridge.h in Headers */,
-				ADEF60FA1DC23D4B008F8D27 /* WKWebViewJavascriptBridge.h in Headers */,
 				ADEF60F41DC23D4B008F8D27 /* WebViewJavascriptBridge_JS.h in Headers */,
 				ADEF60F81DC23D4B008F8D27 /* WebViewJavascriptBridgeBase.h in Headers */,
+				ADEF60FA1DC23D4B008F8D27 /* WKWebViewJavascriptBridge.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
