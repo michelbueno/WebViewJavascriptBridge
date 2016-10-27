@@ -18,4 +18,4 @@ FOUNDATION_EXPORT const unsigned char WebViewJavascriptBridgeFrameworkVersionStr
 
 #import <WebViewJavascriptBridgeFramework/WebViewJavascriptBridge.h>
 #import <WebViewJavascriptBridgeFramework/WKWebViewJavascriptBridge.h>
-#import <WebViewJavascriptBridgeFramework/WKWebViewJavascriptBridge_JS.h>
+#import <WebViewJavascriptBridgeFramework/WebViewJavascriptBridge_JS.h>
